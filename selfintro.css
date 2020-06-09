@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    color: rgb(48, 184, 48);
+}
+li{
+    list-style-type: none;
+    margin: 5px;
+    color: lightseagreen;
+}
+a{
+    font-weight: bold;
+    color: red;
+}
+h3{
+  font-weight: bold;
+  color: blueviolet;
+}
